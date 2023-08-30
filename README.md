@@ -1,2 +1,2 @@
-# Emotion-Detector-AI
-A Python Facial Recognition Emotion Detector (albeit a bit incorrect sometimes)
+# Emotion Detector AI
+Developed a Python-based facial recognition AI that can detect emotions real-time using the user's camera. I used OpenCV to train and test the model and used a dataset called FER 2013. I implemented the project using Tensorflow and achieved a high accuracy in detecting emotions such as happiness, sadness, anger and surprise but I also recognized the limitations of my project as there was an imbalance problem in the dataset.
